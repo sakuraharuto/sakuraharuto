@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakuraharuto
-- 👀 I’m interested in video games(FPS,MMO), reading, playing TRPG like DND
-- 🌱 I’m currently learning Unity, Unreal, pixel arts, game design stuffs
-- 📫 How to reach me: samzuno404@protonmail.com
+- 👀 I’m interested in video games(FPS,MMORPG), reading, playing TRPG like DND 5e, Pathfinder etc.
+- 🌱 I’m currently learning Unity, Unreal Engine 4, pixel arts, game design stuffs
+- 📫 How to reach me: sam zuno 404 @ proton mail. com
 
 <!---
 sakuraharuto/sakuraharuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
